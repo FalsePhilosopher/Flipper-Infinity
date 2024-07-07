@@ -1,5 +1,7 @@
 # Flipper-Infinity
 
-I used https://github.com/Lucaslhm/AmiiboFlipperConverter for the conversion and it did not work, will do more testing now that I have a figure.
-
-Image of random recycling bins that I added for no reason what so ever ;) is attributed to <a href="https://www.freepik.com/free-photo/set-trash-bins-with-recycle-symbol_3686942.htm#query=bin&position=3&from_view=keyword&track=sph&uuid=f66a7e9f-9c79-4b1b-bb8e-39568b4deb30">Image by rawpixel.com</a> on Freepik
+I used a slightly modified version of https://github.com/equipter/ClassicConverter [7B_Converter.py](/Scripts/7B_Converter.py) for the conversion.  
+Run [infsha.py](/Scripts/infsha.py)`python3 infsha.py UID` to get the key A  
+Edit the desired NFC file with the key A in these spots  
+![Key A](Images/KeyA.png)  
+Transfer file to FZ and emulate.
