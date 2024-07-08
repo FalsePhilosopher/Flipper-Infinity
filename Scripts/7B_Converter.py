@@ -6,7 +6,7 @@ import time
 # mifare classic mini DI 7b uid binary to flipper .nfc converter. 
 # Created by Equipter with code portions borrowed from Lucaslhm/AmiiboFlipperConverter
 # V1.07
-# Modified by FalsePhilospher to work with DI toys
+# Modified by FalsePhilosopher to work with DI toys
 
 
 def write_output(name: str, assemble: str, out_dir: str):
