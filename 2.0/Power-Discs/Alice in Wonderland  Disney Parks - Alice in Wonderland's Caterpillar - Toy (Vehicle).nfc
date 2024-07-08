@@ -10,6 +10,7 @@ SAK: 09
 Mifare Classic type: MINI
 Data format version: 2
 # Mifare Classic Blocks, '??' means unknown data
+# Key A: 30f208fe9b5a
 Block 0: 04 E2 25 FD BE 0D 80 89 44 00 C2 00 00 00 00 00
 Block 1: C5 CB E4 6B 96 0E 51 AF E0 0F 83 D0 80 84 1A 11
 Block 2: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
